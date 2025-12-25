@@ -56,5 +56,5 @@ All solutions are my own work and were prepared as part of the course requiremen
 ## Author
 
 **Arafat Miah**  
-Radio Engineering I  
+Master's student in Electronics  
 University of Oulu
