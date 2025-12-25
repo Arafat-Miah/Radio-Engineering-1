@@ -54,7 +54,7 @@ All solutions are my own work and were prepared as part of the course requiremen
 
 ## Author
 
-Arafat Miah
+**Arafat Miah**
 Master's student
 University of Oulu
 Radio Engineering I  
