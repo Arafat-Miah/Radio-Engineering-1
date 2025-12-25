@@ -52,10 +52,9 @@ All solutions are my own work and were prepared as part of the course requiremen
 
 ---
 
+
 ## Author
 
-**Arafat Miah**
-Master's student
-University of Oulu
+**Arafat Miah**  
 Radio Engineering I  
 University of Oulu
